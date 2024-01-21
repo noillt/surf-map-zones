@@ -17,7 +17,8 @@ Zones currently are for **Tier 1** through **Tier 3** maps (as those are the tie
 
 - Counter-Strike: Source server
 - [Influx Timer](https://github.com/InfluxTimer) setup on the server
-- Server to use a database *(such as mysql/mariadb)* instead of SQLite
+- Server to use a database *(such as mysql/mariadb)* instead of SQLite  
+  [Influx Guide - Using MySQL](https://influxtimer.com/guide.html#usingmysql)
 - To have access to that database
 > :warning: Importing this `.sql` will remove any zones you might have already created!  
   > It will drop `inf_maps` and `inf_zones` tables and replace them with ours.  
