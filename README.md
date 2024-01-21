@@ -36,6 +36,10 @@ Zones currently are for **Tier 1** through **Tier 3** maps (as those are the tie
 
 As zones are just coordinates within maps - this repository could be used for other surf timers, but converting the data would have to be done by yourselves, as we do not have any other timers on hand to test for.
 
+## Credits
+
+[Anckarström](https://github.com/Anckarstroem) - 99% of zones done by him
+
 ## Map list:
 ```
 # Tier 1
